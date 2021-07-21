@@ -5,7 +5,7 @@
 <a href="#"><img title="luttapi" src="https://img.shields.io/badge/luttapi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-LOST-BOY-000/luttapi?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/LOST-BOY-000"><img title="Author" src="https://img.shields.io/badge/Author-LOST-BOY-000/luttapi?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/LOST-BOY-000">LOST-BOY-000</a> to
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="https://github.com/LOST-BOY-000/luttapi">
     <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/LOST-BOY-000/followers"><img title="Followers" src="https://img.shields.io/github/followers/saidalisaid2?color=blue&style=flat-square"></a>
