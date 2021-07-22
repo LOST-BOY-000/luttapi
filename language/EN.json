@@ -73,7 +73,7 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```LiyaMol Restarting...please wait few minits```",
+            "RESTART_MSG": "```luttapi Restarting...please wait few minits```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
@@ -223,7 +223,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅  happy alle nenba*",
             "UPDATED_LOCAL": "*✅ Successfully Updated 😍😍😍!*",
-            "AFTER_UPDATE": "*  👻 luttapiRestarting    please wait few minits *"
+            "AFTER_UPDATE": "* 👻 luttapi Restarting  please wait few minits *"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
