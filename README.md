@@ -1,8 +1,8 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://ibb.co/KwQ8fcg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/PwrXqp0.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="luttapi" src="https://ibb.co/KwQ8fcg"></a>
+<a href="#"><img title="luttapi" src="https://i.imgur.com/PwrXqp0.jpeg"></a>
 </p>
   <p align="center">
 <a href="https://github.com/LOST-BOY-000"><img title="Author" src="https://img.shields.io/badge/Author-LOST-BOY-000/luttapi?color=red&style=for-the-badge&logo=whatsapp"></a>
