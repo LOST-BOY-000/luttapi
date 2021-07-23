@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/PwrXqp0.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://ibb.co/KwQ8fcg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="luttapi" src="https://i.imgur.com/PwrXqp0.jpeg"></a>
 </p>
