@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2006160109482454&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FLuttappiOfficialPage%2F&tbnid=bzHjySBsVnr77M&vet=1&docid=eM0jVtB9uwUx4M&w=1991&h=1991&itg=1&source=sh%2Fx%2Fim" width="200" height="200"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/view.php?img=LPic60fab69bdb2f41252490470" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="luttapi" src="https://img.shields.io/badge/luttapi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
