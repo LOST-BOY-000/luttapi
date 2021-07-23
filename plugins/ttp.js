@@ -18,7 +18,7 @@ const Config = require('../config')
 const axios = require('axios')
 const request = require('request');
 const os = require('os');
-var clh = { cd: 'L3Jvb3QvV2hhdHNBc2VuYUR1cGxpY2F0ZWQv', pay: '' }    
+var clh = { cd: 'L3Jvb3QvV2hhdHNBc2VuYUR1cGxpY2F0ZWQv', pay: '' }   
 var ggg = Buffer.from(clh.cd, 'base64')
 var ddd = ggg.toString('utf-8')
 clh.pay = ddd
@@ -137,33 +137,33 @@ Asena.addCommand({pattern: 'txttoimg$', fromMe: wk, desc: desc_msg}, (async (mes
         command_cmd = '🐼 Command : '
         desc_cmd = '🍀 Description : '
     }
-    const msg = command_cmd + '```.devil``` \n' + t1 + '_\n' + usage_cmd + '*.devil LiyaMol*\n\n' +
-        command_cmd + '```.bear``` \n' + desc_cmd + t2 + '_\n' + usage_cmd + '*.bear LiyaMol*\n\n' +
-        command_cmd + '```.wolf``` \n' + desc_cmd + t10 + '_\n' + usage_cmd + '*.wolf liya;Mol*\n\n' +
-        command_cmd + '```.neon```\n' + desc_cmd + t3 + '_\n' + usage_cmd + '*.neon LiyaMol*\n\n' +
-        command_cmd + '```.2neon``` \n' + desc_cmd + t4 + '_\n' + usage_cmd + '*.2neon LiyaMol*\n\n' +
-        command_cmd + '```.3neon``` \n' + desc_cmd + t18 + '_\n' + usage_cmd + '*.3neon LiyaMol*\n\n' +
-        command_cmd + '```.4neon``` \n' + desc_cmd + t27 + '_\n' + usage_cmd + '*.4neon LiyaMol*\n\n' +
-        command_cmd + '```.light``` \n' + desc_cmd + t5 + '_\n' + usage_cmd + '*.light LiyaMol*\n\n' +
-        command_cmd + '```.joker``` \n' + desc_cmd + t6 + '_\n' + usage_cmd + '*.joker LiyaMol*\n\n' +
-        command_cmd + '```.ninja``` \n' + desc_cmd + t7 + '_\n' + usage_cmd + '*.ninja Julie;Mwol*\n\n' +
-        command_cmd + '```.glitter``` \n' + desc_cmd + t8 + '_\n' + usage_cmd + '*.glitter LiyaMol*\n\n' +
-        command_cmd + '```.bokeh``` \n' + desc_cmd + t9 + '_\n' + usage_cmd + '*.bokeh LiyaMol*\n\n' +
-        command_cmd + '```.marvel``` \n' + desc_cmd + t11 + '_\n' + usage_cmd + '*.marvel liya;Mol*\n\n' +
-        command_cmd + '```.2marvel``` \n' + desc_cmd + t12 + '_\n' + usage_cmd + '*.2marvel liya;Mol*\n\n' +
-        command_cmd + '```.avengers``` \n' + desc_cmd + t13 + '_\n' + usage_cmd + '*.avengers Liya;Mol*\n\n' +
-        command_cmd + '```.graf``` \n' + desc_cmd + t15 + '_\n' + usage_cmd + '*.graf LiyaMol;LiyaMol*\n\n' +
-        command_cmd + '```.2graf``` \n' + desc_cmd + t16 + '_\n' + usage_cmd + '*.2graf liya;Mol*\n\n' +       
-        command_cmd + '```.lion``` \n' + desc_cmd + t17 + '_\n' + usage_cmd + '*.lion liya;mol*\n\n' +
-        command_cmd + '```.ice``` \n' + desc_cmd + t19 + '_\n' + usage_cmd + '*.ice LiyaMol*\n\n' +
-        command_cmd + '```.space``` \n' + desc_cmd + t20 + '_\n' + usage_cmd + '*.space Liya;Mol*\n\n' +
-        command_cmd + '```.smoke``` \n' + desc_cmd + t21 + '_\n' + usage_cmd + '*.smoke LiyaMol*\n\n' + // Thanks for @Unique_hunter for base.
-        command_cmd + '```.glow``` \n' + desc_cmd + t23 + '_\n' + usage_cmd + '*.glow LiyaMol*\n\n' +
-        command_cmd + '```.fire``` \n' + desc_cmd + t25 + '_\n' + usage_cmd + '*.fire LiyaMol*\n\n' +
-        command_cmd + '```.harry``` \n' + desc_cmd + t26 + '_\n' + usage_cmd + '*.harry LiyaMol*\n\n' +
-        command_cmd + '```.cup``` \n' + desc_cmd + t29 + '_\n' + usage_cmd + '*.cup LiyaMol*\n\n' +
-        command_cmd + '```.cemetery``` \n' + desc_cmd + t28 + '_\n' + usage_cmd + '*.cemetery LiyaMol*\n\n' +
-        command_cmd + '```.glitch``` \n' + desc_cmd + t14 + '_\n' + usage_cmd + '*.glitch liya;Mol*\n\n'
+    const msg = command_cmd + '```.devil``` \n' + t1 + '_\n' + usage_cmd + '*.devil luttapi*\n\n' +
+        command_cmd + '```.bear``` \n' + desc_cmd + t2 + '_\n' + usage_cmd + '*.bear luttapi*\n\n' +
+        command_cmd + '```.wolf``` \n' + desc_cmd + t10 + '_\n' + usage_cmd + '*.wolf lutt;api*\n\n' +
+        command_cmd + '```.neon```\n' + desc_cmd + t3 + '_\n' + usage_cmd + '*.neon luttapi*\n\n' +
+        command_cmd + '```.2neon``` \n' + desc_cmd + t4 + '_\n' + usage_cmd + '*.2neon luttapi*\n\n' +
+        command_cmd + '```.3neon``` \n' + desc_cmd + t18 + '_\n' + usage_cmd + '*.3neon luttapi*\n\n' +
+        command_cmd + '```.4neon``` \n' + desc_cmd + t27 + '_\n' + usage_cmd + '*.4neon luttapi*\n\n' +
+        command_cmd + '```.light``` \n' + desc_cmd + t5 + '_\n' + usage_cmd + '*.light luttapi*\n\n' +
+        command_cmd + '```.joker``` \n' + desc_cmd + t6 + '_\n' + usage_cmd + '*.joker luttapi*\n\n' +
+        command_cmd + '```.ninja``` \n' + desc_cmd + t7 + '_\n' + usage_cmd + '*.ninja lutt;api*\n\n' +
+        command_cmd + '```.glitter``` \n' + desc_cmd + t8 + '_\n' + usage_cmd + '*.glitter luttapi*\n\n' +
+        command_cmd + '```.bokeh``` \n' + desc_cmd + t9 + '_\n' + usage_cmd + '*.bokeh luttapi*\n\n' +
+        command_cmd + '```.marvel``` \n' + desc_cmd + t11 + '_\n' + usage_cmd + '*.marvel lutt;api*\n\n' +
+        command_cmd + '```.2marvel``` \n' + desc_cmd + t12 + '_\n' + usage_cmd + '*.2marvel lutt;api*\n\n' +
+        command_cmd + '```.avengers``` \n' + desc_cmd + t13 + '_\n' + usage_cmd + '*.avengers lutt;api*\n\n' +
+        command_cmd + '```.graf``` \n' + desc_cmd + t15 + '_\n' + usage_cmd + '*.graf luttapi;luttapi*\n\n' +
+        command_cmd + '```.2graf``` \n' + desc_cmd + t16 + '_\n' + usage_cmd + '*.2graf lutt;api*\n\n' +       
+        command_cmd + '```.lion``` \n' + desc_cmd + t17 + '_\n' + usage_cmd + '*.lion lutt;api*\n\n' +
+        command_cmd + '```.ice``` \n' + desc_cmd + t19 + '_\n' + usage_cmd + '*.ice luttapi*\n\n' +
+        command_cmd + '```.space``` \n' + desc_cmd + t20 + '_\n' + usage_cmd + '*.space lutt;api*\n\n' +
+        command_cmd + '```.smoke``` \n' + desc_cmd + t21 + '_\n' + usage_cmd + '*.smoke luttapi*\n\n' + // Thanks for @Unique_hunter for base.
+        command_cmd + '```.glow``` \n' + desc_cmd + t23 + '_\n' + usage_cmd + '*.glow luttapi*\n\n' +
+        command_cmd + '```.fire``` \n' + desc_cmd + t25 + '_\n' + usage_cmd + '*.fire luttapi*\n\n' +
+        command_cmd + '```.harry``` \n' + desc_cmd + t26 + '_\n' + usage_cmd + '*.harry luttapi*\n\n' +
+        command_cmd + '```.cup``` \n' + desc_cmd + t29 + '_\n' + usage_cmd + '*.cup luttapi*\n\n' +
+        command_cmd + '```.cemetery``` \n' + desc_cmd + t28 + '_\n' + usage_cmd + '*.cemetery luttapi*\n\n' +
+        command_cmd + '```.glitch``` \n' + desc_cmd + t14 + '_\n' + usage_cmd + '*.glitch lutt;api*\n\n'
     await message.client.sendMessage(message.jid,msg, MessageType.text, { quoted: message.data })
 }));
 Asena.addCommand({pattern: 'devil ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
