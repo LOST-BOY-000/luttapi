@@ -926,7 +926,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                 }
                                 else {
                                     return await conn.sendMessage(conn.user.jid, '*🙇🏻 Sorry, I Couldnt Read This Error! 🙇🏻(erorr kandethan ayilla boss*' +
-                                        '\n_You can write to our support group for more help._'
+                                        '\n_You can write to our support group for more help.link :https://chat.whatsapp.com/Ew6NekSPtX852zYNaC35oF ._'
                                         , MessageType.text
                                     );
                                 }    
